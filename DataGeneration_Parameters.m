@@ -4,6 +4,7 @@ g=rectwin(63);
 h=rectwin(63);
 imgSize = 50;
 A = 0.316228; % Corresponding voltage Vpp of 0dBm Power 
+carrier_frequency_New = 500e6;
 %% Parameters Declaration %%
 sampling_frequency = 2.7e9;
 sampling_time = 1/sampling_frequency;
